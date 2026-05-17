@@ -49,7 +49,7 @@ I don't just write code — I build systems. Whether it's a client-facing websit
 
 ## Studio
 
-All client engagements are handled through **Prime Motion Studio**.
+All client engagements are handled through **Noble Motion Studio**.
 For project enquiries, technical partnerships, or collaborations — reach out.
 
 ---
