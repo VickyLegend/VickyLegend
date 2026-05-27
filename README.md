@@ -2,7 +2,7 @@
 
 I design and build complete digital products — from backend architecture and APIs to polished frontend interfaces and mobile applications. Every project I take on is built to a professional standard, delivered for real clients with real requirements.
 
-Founder of **Prime Motion Studio**, a development studio producing web, mobile, and software solutions for businesses across Nigeria and beyond.
+Founder of **Noble Motion Studio**, a development studio producing web, mobile, and software solutions for businesses across Nigeria and beyond.
 
 ---
 
