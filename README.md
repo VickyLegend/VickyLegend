@@ -1,8 +1,5 @@
-# Prince · Full-Stack Developer & Studio Founder
-
+# Prince · Full-Stack Developer
 I design and build complete digital products — from backend architecture and APIs to polished frontend interfaces and mobile applications. Every project I take on is built to a professional standard, delivered for real clients with real requirements.
-
-Founder of **Noble Motion Studio**, a development studio producing web, mobile, and software solutions for businesses across Nigeria and beyond.
 
 ---
 
@@ -30,27 +27,22 @@ Founder of **Noble Motion Studio**, a development studio producing web, mobile, 
 
 ## Featured Work
 
-### 🏢 SMATO Global Resource
-Full corporate website for a diversified global conglomerate — trade, logistics, technology, and more.
-Multi-page build featuring scroll animations, counter effects, structured SEO, and an integrated contact system.
-**→** [Live Site](https://smatoglobalresource.netlify.app/) · [Repository](https://github.com/VickyLegend/SMATO-GLOBAL-RESOURCE-WEBSITE)
+### ⛪ Rev. Sam Odumosu-Israel — Ministry Website
+A full ministry platform built with a React/Vite frontend and a Cloudflare Workers + D1 backend — complete design system, payment integration, and live streaming features.
 
-### 📱 GigNation Application
-A service-platform mobile application concept built with Dart.
-**→** [Repository](https://github.com/VickyLegend/GigNation-Application)
+**→** [Live Site](https://samodumosuisrael.com)
+
+---
+
+## SMATO Global Resource
+
+I head the tech department at **SMATO Global Resource**, a family-owned company expanding into logistics, import/export, and technology. I'm building out our tech infrastructure and digital presence as we scale globally.
 
 ---
 
 ## Approach
 
-I don't just write code — I build systems. Whether it's a client-facing website, a backend API, or a cross-platform mobile app, the focus is always on clean architecture, maintainable code, and a result the client can stand behind.
-
----
-
-## Studio
-
-All client engagements are handled through **Noble Motion Studio**.
-For project enquiries, technical partnerships, or collaborations — reach out.
+I don't just write code — I build systems. Whether it's a client-facing website, a backend API, or a cross-platform mobile app, the focus is always on clean architecture, maintainable code, and a result that holds up.
 
 ---
 
