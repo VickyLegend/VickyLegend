@@ -1,5 +1,3 @@
-<div align="center">
-
 # Prince Victor
 ### Full-Stack Web Developer · Lagos, Nigeria
 
